@@ -19,3 +19,9 @@ h2 {
     color: blue;            /* 文字を青にする */
     border-bottom: 2px solid blue; /* 下に線を引く */
 }
+
+/* pタグ（本文）のデザイン */
+p {
+    color: blue;            /* 文字を青にする */
+    border-bottom: 2px solid blue; /* 下に線を引く */
+}
